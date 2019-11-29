@@ -2,9 +2,9 @@
 Viewpoint-Aware Loss with Angular Regularization for Person Re-Identification（AAAI-2020）
 
 Content is about to be updated soon!!!
-###Code:
+### Code:
 Training code.
-###Annotations: 
+### Annotations: 
 the viewpoint label of two widely used bench-marks including Market-1501, DukeMTMC-reID, CUHK03.
-###Supplementary materials：
+### Supplementary materials：
 More experimental details.
